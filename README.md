@@ -8,3 +8,4 @@ I'm Jony, an iOS software enginner & design-lover. Here are some facts about me.
 - 🌟 Pronouns: he/him
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonyFang&show_icons=true" alt="JonyFang's Github Stats" /> -->
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=jonyfang&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="JonyFang's github stats"/>
